@@ -15,7 +15,7 @@ window.onload = function () {
     var ax = ay = 10;//posição da maçã
 
     var cobra = [];
-    c = 5;
+    c = 4;
 
 
     function gameBG() {
